@@ -4,10 +4,10 @@ A React Native application demonstrating stack navigation using React Navigation
 
 ## Student Information
 
-- **Name:** [Your Full Name]
-- **Student ID:** [Your ID]
+- **Name:** Mycaiela Shien Cantor
+- **Student ID:** 202303730
 - **Course:** Mobile Application Development
-- **Date:** [Submission Date]
+- **Date:** 12/2/25
 
 ## Features
 
@@ -68,12 +68,11 @@ npm run web
 
 ## Challenges Faced
 
-[Describe any challenges you encountered and how you resolved them]
+I had a hard time pushing my code to GitHub because I kept facing errors related to my local changes not matching what was online.
 
 ## Learning Outcomes
 
-[Describe what you learned from this lab activity]
-
+From this lab activity, I learned the critical importance of a structured workflow in version control, specifically mastering the sequence of fetch, pull, commit, and push commands to maintain synchronization.
 ## References
 
 - [React Navigation Documentation](https://reactnavigation.org/)
